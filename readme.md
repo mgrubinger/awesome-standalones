@@ -95,7 +95,7 @@ Frequently-solved problems in web component form.
 - [`<katex-display>`](https://github.com/justinfagnani/katex-elements)
 - [`<no-spoilers>`](https://github.com/andrico1234/no-spoilers)
 - [`<place-holder>`](https://github.com/Noleli/place-holder)
-- [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
+- [`<pwa-install>`](https://github.com/khmyznikov/pwa-install)
 
 ## Novelty Elements
 
